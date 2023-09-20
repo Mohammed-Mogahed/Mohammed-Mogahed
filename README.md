@@ -20,7 +20,7 @@
 
 ### Connect with Me :
 
-<a href="[https://www.linkedin.com/in/hanem-naga/](https://www.linkedin.com/in/mohamed-mogahed-9abb91210)" target="_blank"><img src="https://img.shields.io/badge/-Hanem%20Naga-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="(https://www.linkedin.com/in/mohamed-mogahed-9abb91210)" target="_blank"><img src="https://img.shields.io/badge/-Hanem%20Naga-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
